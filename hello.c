@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  char hello[] = "Say Hello from Codespace to the server!"; 
+  char hello[] = "Hello my frrrrrrrriends!"; 
   char hello2[] = { 72, 101, 108, 108, 111, 33, 0 };
 
   puts(hello);
@@ -9,4 +9,3 @@ int main() {
 
   return 0;
 }
-
